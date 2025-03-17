@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Portfolio Website
 
-## Getting Started
+A modern, responsive portfolio website built with Next.js that showcases professional skills, projects, and contact information.
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/b0ce29e8-3f55-41cd-84b7-efe458388017)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📋 Project Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This portfolio website is built using Next.js and features:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Clean, modern UI with responsive design
+- Multiple pages with Next.js file-based routing
+- Server-side rendering for improved performance and SEO
+- Interactive components including skills visualization
+- Dark/light mode toggle
+- Optimized images using Next.js Image component
 
-## Learn More
+## 🚀 Features
 
-To learn more about Next.js, take a look at the following resources:
+- **Home Page**: Personal introduction with core expertise visualization
+- **About Page**: Detailed professional background and skills
+- **Projects Page**: Showcase of professional work and personal projects
+- **Publications Page**: List of academic or professional publications
+- **Contact Page**: Contact form and professional links
+- **Skills Visualization**: Interactive charts displaying proficiency levels
+- **Responsive Design**: Optimized for all device sizes
+- **Theme Toggle**: Switch between light and dark modes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Next.js**: React framework for server-side rendering and static site generation
+- **React**: JavaScript library for building user interfaces
+- **TypeScript**: Type-safe JavaScript
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **Framer Motion**: Animation library for React
+- **Chart.js/D3.js**: For data visualization components
+- **Vercel**: For deployment and hosting
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🏗️ Project Structure
